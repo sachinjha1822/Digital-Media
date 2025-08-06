@@ -57,7 +57,3 @@ A complete e-commerce solution for custom PVC card printing services with produc
 - Composer (for dependencies)
 
 ### Setup Steps
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/digital-media.git
